@@ -4,11 +4,11 @@ body {
   padding: 0;
 }
 .header {
-  background-color: red;
+  background-color: white;
   padding: 0 .5em;
 }
 .footer {
-  background-color: red;
+  background-color: white;
   padding: 0 .5em;
 }
 .main {
