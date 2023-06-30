@@ -4,11 +4,11 @@ body {
   padding: 0;
 }
 .header {
-  background-color: white;
+  background-color: red;
   padding: 0 .5em;
 }
 .footer {
-  background-color: white;
+  background-color: red;
   padding: 0 .5em;
 }
 .main {
@@ -16,7 +16,7 @@ body {
   padding: 1em;
 }
 h1 {
-  font-size: 150%;
+  font-size: 147%;
   margin: 0 0;
   padding: .5em 0;
 }
